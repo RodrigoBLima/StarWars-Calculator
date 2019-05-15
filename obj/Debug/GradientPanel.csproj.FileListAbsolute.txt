@@ -1,0 +1,10 @@
+C:\Users\barbosa\source\repos\SeupetTela\GradientPanel\GradientPanel\bin\Debug\GradientPanel.exe.config
+C:\Users\barbosa\source\repos\SeupetTela\GradientPanel\GradientPanel\bin\Debug\GradientPanel.exe
+C:\Users\barbosa\source\repos\SeupetTela\GradientPanel\GradientPanel\bin\Debug\GradientPanel.pdb
+C:\Users\barbosa\source\repos\SeupetTela\GradientPanel\GradientPanel\obj\Debug\GradientPanel.csprojAssemblyReference.cache
+C:\Users\barbosa\source\repos\SeupetTela\GradientPanel\GradientPanel\obj\Debug\GradientPanel.Form1.resources
+C:\Users\barbosa\source\repos\SeupetTela\GradientPanel\GradientPanel\obj\Debug\GradientPanel.Properties.Resources.resources
+C:\Users\barbosa\source\repos\SeupetTela\GradientPanel\GradientPanel\obj\Debug\GradientPanel.csproj.GenerateResource.cache
+C:\Users\barbosa\source\repos\SeupetTela\GradientPanel\GradientPanel\obj\Debug\GradientPanel.csproj.CoreCompileInputs.cache
+C:\Users\barbosa\source\repos\SeupetTela\GradientPanel\GradientPanel\obj\Debug\GradientPanel.exe
+C:\Users\barbosa\source\repos\SeupetTela\GradientPanel\GradientPanel\obj\Debug\GradientPanel.pdb
